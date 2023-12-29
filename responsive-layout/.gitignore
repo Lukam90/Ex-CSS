@@ -1,0 +1,5 @@
+node_modules/
+
+*.map
+_copy.sh
+package-lock.json

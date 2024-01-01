@@ -1,0 +1,15 @@
+{
+  "name": "cv-responsive",
+  "version": "1.0.0",
+  "description": "[How to Create Responsive Resume Website using HTML and CSS | Resume CV design in HTML CSS](https://www.youtube.com/watch?v=hnjHCmaUVPg&t=136s&ab_channel=OnlineTutorials) de *Online Tutorials*",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss:css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.69.6"
+  }
+}

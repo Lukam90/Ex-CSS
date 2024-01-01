@@ -1,0 +1,4 @@
+node_modules/
+
+_copy.sh
+package-lock.json
